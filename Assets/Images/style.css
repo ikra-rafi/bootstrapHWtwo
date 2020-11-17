@@ -1,7 +1,17 @@
+h1 {text-align: center;}
+
 a:hover {
     opacity: 20%;
     text-decoration: none;
   }
+
+   body { 
+    background-image: url('https://cdn.wallpapersafari.com/70/51/pP2NZm.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+ 
   
   .navbarTogglerDemo02 {
     text-align: right;
@@ -19,26 +29,23 @@ a:hover {
   padding: 8px 13px 8px 13px;
   }
   
-  .fa-github {
+  .fa-twitter {
     background-color: black;
     color: white;
     padding: 8px 10px 8px 10px;
   
   }
   
-  .fa-youtube{
-    background-color: red;
-    color: white;
-    padding: 8px 10px 8px 10px;
-  }
-  
+ 
   .fa-linkedin{
     background-color: #0e76a8;
     color: white;
     padding: 8px 10px 8px 10px;
   }
   
-  .Copyright {
-    font-size: 20px;
+  footer {
+    text-align: center;
+    padding: 0px;
+    background-color: rgb(130, 205, 235);
+    color: white;
   }
-  
