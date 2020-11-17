@@ -1,0 +1,44 @@
+a:hover {
+    opacity: 20%;
+    text-decoration: none;
+  }
+  
+  .navbarTogglerDemo02 {
+    text-align: right;
+  }
+  
+  .fa{
+    border-radius: 50%;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+  
+  .fa-facebook{
+  background-color: #3b5998;
+  color: white;
+  padding: 8px 13px 8px 13px;
+  }
+  
+  .fa-github {
+    background-color: black;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  
+  }
+  
+  .fa-youtube{
+    background-color: red;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  }
+  
+  .fa-linkedin{
+    background-color: #0e76a8;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  }
+  
+  .Copyright {
+    font-size: 20px;
+  }
+  
