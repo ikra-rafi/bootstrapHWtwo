@@ -1,4 +1,6 @@
 Homework 2
+Created a responsive portfolio using Bootstrap. 
+https://ikra-rafi.github.io/bootstrapHWtwo/
 
 HTML
    index
