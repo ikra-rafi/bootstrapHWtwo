@@ -1,3 +1,12 @@
+# Portfolio
+## Contact
+Ikra Rafi, iar296@gmail.com
+## GitHub
+https://github.com/ikra-rafi
+## LinkedIn
+https://www.linkedin.com/in/ikra-rafi
+
+
 Homework 2
 Created a responsive portfolio using Bootstrap. 
 https://ikra-rafi.github.io/bootstrapHWtwo/
