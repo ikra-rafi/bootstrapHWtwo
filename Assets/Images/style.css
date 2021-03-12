@@ -10,6 +10,10 @@ a:hover {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+       
+   min-height: 400px;
+   margin-bottom: 100px;
+   clear: both;
   }
  
   
