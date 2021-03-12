@@ -4,7 +4,7 @@ Ikra Rafi, iar296@gmail.com
 ## GitHub
 https://github.com/ikra-rafi
 ## LinkedIn
-https://www.linkedin.com/in/ikra-rafi
+https://www.linkedin.com/in/ikra-rafi-a4ab9279/
 
 
 Homework 2
